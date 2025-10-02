@@ -45,7 +45,7 @@ Bu proje, **Spring Boot** kullanılarak geliştirilmiş temel bir **Student Mana
   "firstName": "Taner",
   "lastName": "Topçuoğlu",
   "dateOfBirth": "2000-05-15"
-};
+}
 
 
 

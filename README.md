@@ -37,14 +37,15 @@ Bu proje, **Spring Boot** kullanılarak geliştirilmiş temel bir **Student Mana
 | DELETE     | `/api/student/delete/{id}`| ID’ye göre öğrenci siler  |
 
 ---
-
+![Student API Diagram](images/save.png)
 ## Örnek JSON Gövdesi (Request Body)
-
+ 
 ```json
 {
   "firstName": "Taner",
   "lastName": "Topçuoğlu",
   "dateOfBirth": "2000-05-15"
-}
+};
 
- ![Student API Diagram](images/save.png)
+
+

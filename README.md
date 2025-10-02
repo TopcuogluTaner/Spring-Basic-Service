@@ -46,3 +46,5 @@ Bu proje, **Spring Boot** kullanılarak geliştirilmiş temel bir **Student Mana
   "lastName": "Topçuoğlu",
   "dateOfBirth": "2000-05-15"
 }
+
+ ![Student API Diagram](images/save.png)
